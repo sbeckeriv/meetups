@@ -15,3 +15,8 @@ his Silly Simply Rust Tutorial. Both had lively discussion.
 
 
 Not presented but a good follow up [Lifetimes are Weird](https://gist.github.com/kscz/76a31c068daea8341b4812d56515bd65)
+
+
+## Related notes
+
+http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/  - Joe shared this in reference to trait bounding 
